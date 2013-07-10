@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373448628000 371 278e4df0e02f8998380291d277db378a7e318af6 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/BuildConfig.class
+1373448628000 500 940644a2207abb019e2e2a334ad00c9e5b9506b2 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R$dimen.class
+1373448628000 470 8205760e29d468694682b13e17d07d9c15e55afb /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R$style.class
+1373448628000 432 25a958e26ead9e905f1c6481a14c66571b3a9106 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R$id.class
+1373448462000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/libs/android-support-v4.jar
+1373448628000 843 7ed3f751a2747f7448d87ab1c289553b509860af /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/MainActivity.class
+1373448628000 427 7702dd6d41ddc63543076daa0da96d80ebfc437a /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R$menu.class
+1373448628000 511 d3904ac3848bb15004685ea556e0d935ad6b1a29 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R$string.class
+1373448628000 807 11771660f83cf748785cbe155885d320272bb3e5 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R.class
+1373448628000 442 f80922a1bd87ecedc82cde9b132099d2878a00f1 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R$layout.class
+1373448628000 379 3850e6cd6015b66220e60c203cc9e59d60c474f8 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R$attr.class
+1373448628000 446 835987184813a25cf42846f99179f6922ba7e90a /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/classes/debug/uk/ks/jarvis/simple/test/system/R$drawable.class

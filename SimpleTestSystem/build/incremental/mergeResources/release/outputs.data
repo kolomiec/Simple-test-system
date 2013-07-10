@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373448651000 9228 9befbb247eadc70eebfdcd45a326715ad7d14aa8 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/drawable-hdpi/ic_launcher.png
+1373448651000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/values-sw720dp-land/values.xml
+1373448651000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/values-v11/values.xml
+1373448651000 28328 dc9c5680a9ad3bf114a1e25da79fdcd6bc7633ef /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/drawable-xxhdpi/ic_launcher.png
+1373448651000 796 bf927ab81f932b6c077ddab01c70267b53619064 /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/values/values.xml
+1373448651000 217 f02e000d05a079992d2dba18039216c1e6b8784f /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/values-v14/values.xml
+1373448651000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/menu/main.xml
+1373448651000 4626 f3bcfd91cf37afbd80eaec52fcc4db0558949a0d /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/drawable-mdpi/ic_launcher.png
+1373448651000 14468 daf60aa7cd825512ca55fc5e1d092a7ea683b8bb /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/drawable-xhdpi/ic_launcher.png
+1373448651000 649 52e8d9051811c2787c5fc0d0dc7735d67b0820be /home/ksk/Worck/Android-projects/MyApplicationProject/SimpleTestSystem/build/res/all/release/layout/activity_main.xml
